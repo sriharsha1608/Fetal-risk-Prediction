@@ -15,14 +15,14 @@ Formulate a methodology for using the features and making the predictions.
 Exploratory data analysis
 
 Feature Selection:
-  Minimum Redundancy Maximum Relevance (MRMR)
-  principal Component Analysis (PCA)
+  1) Minimum Redundancy Maximum Relevance (MRMR)
+  2) principal Component Analysis (PCA)
   
 Classifier Algorithms
 
-  NaviesBayes
-  Random Forest
-  Desicion Tree
-  Support Vector Machine
-  Multi Layer Perceptron
+  1) NaviesBayes
+  2) Random Forest
+  3) Desicion Tree
+  4) Support Vector Machine
+  5) Multi Layer Perceptron
   
